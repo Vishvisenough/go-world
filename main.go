@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("HELLO WORLD")
+	fmt.Println("Welcome to Golang tutorial")
 }
